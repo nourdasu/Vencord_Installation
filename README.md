@@ -3,7 +3,7 @@
 Installs Vencord from source with Custom Plugins
 
 # Installation
-  - Download the .ps1 file
+  - Download the .ps1 file from releases
   - Run Powershell as an Admin
   - Locate where the file is via Powershell
   - Use  _.\vencordinstallation  to start the script
