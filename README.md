@@ -1,4 +1,4 @@
-# THIS WILL ONLY WORK FOR WINDOWS 10/11 
+# **_THIS WILL ONLY WORK FOR WINDOWS 10/11_ **
   # Vencord Installation
 Installs Vencord from source with Custom Plugins
 
