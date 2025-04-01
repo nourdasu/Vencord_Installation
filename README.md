@@ -1,7 +1,7 @@
 # **_THIS WILL ONLY WORK FOR WINDOWS 10/11_ **
   # Vencord Installation
 Installs Vencord from source with Custom Plugins
-
+  _installation is for advanced users_
 # Installation
   - Download the .ps1 file from releases
   - Run Powershell as an Admin
